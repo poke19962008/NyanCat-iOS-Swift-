@@ -13,6 +13,34 @@
 		8F8B16171B36F2B40043596E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16161B36F2B40043596E /* Images.xcassets */; };
 		8F8B161A1B36F2B40043596E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16181B36F2B40043596E /* LaunchScreen.xib */; };
 		8F8B16261B36F2B40043596E /* Nyan_Cat_WidgetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B16251B36F2B40043596E /* Nyan_Cat_WidgetTests.swift */; };
+		8F8B16361B36F36F0043596E /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F8B16351B36F36F0043596E /* NotificationCenter.framework */; };
+		8F8B163B1B36F36F0043596E /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B163A1B36F36F0043596E /* TodayViewController.swift */; };
+		8F8B163D1B36F36F0043596E /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B163C1B36F36F0043596E /* MainInterface.storyboard */; };
+		8F8B16401B36F36F0043596E /* Nyan Cat Today.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 8F8B16331B36F36F0043596E /* Nyan Cat Today.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		8F8B165D1B36F4700043596E /* Portrait-Nyan-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16451B36F4700043596E /* Portrait-Nyan-1.png */; };
+		8F8B165E1B36F4700043596E /* Portrait-Nyan-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16461B36F4700043596E /* Portrait-Nyan-1@2x.png */; };
+		8F8B165F1B36F4700043596E /* Portrait-Nyan-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16471B36F4700043596E /* Portrait-Nyan-2.png */; };
+		8F8B16601B36F4700043596E /* Portrait-Nyan-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16481B36F4700043596E /* Portrait-Nyan-2@2x.png */; };
+		8F8B16611B36F4700043596E /* Portrait-Nyan-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16491B36F4700043596E /* Portrait-Nyan-3.png */; };
+		8F8B16621B36F4700043596E /* Portrait-Nyan-3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164A1B36F4700043596E /* Portrait-Nyan-3@2x.png */; };
+		8F8B16631B36F4700043596E /* Portrait-Nyan-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164B1B36F4700043596E /* Portrait-Nyan-4.png */; };
+		8F8B16641B36F4700043596E /* Portrait-Nyan-4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164C1B36F4700043596E /* Portrait-Nyan-4@2x.png */; };
+		8F8B16651B36F4700043596E /* Portrait-Nyan-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164D1B36F4700043596E /* Portrait-Nyan-5.png */; };
+		8F8B16661B36F4700043596E /* Portrait-Nyan-5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164E1B36F4700043596E /* Portrait-Nyan-5@2x.png */; };
+		8F8B16671B36F4700043596E /* Portrait-Nyan-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B164F1B36F4700043596E /* Portrait-Nyan-6.png */; };
+		8F8B16681B36F4700043596E /* Portrait-Nyan-6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16501B36F4700043596E /* Portrait-Nyan-6@2x.png */; };
+		8F8B16691B36F4700043596E /* Portrait-Nyan-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16511B36F4700043596E /* Portrait-Nyan-7.png */; };
+		8F8B166A1B36F4700043596E /* Portrait-Nyan-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16521B36F4700043596E /* Portrait-Nyan-7@2x.png */; };
+		8F8B166B1B36F4700043596E /* Portrait-Nyan-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16531B36F4700043596E /* Portrait-Nyan-8.png */; };
+		8F8B166C1B36F4700043596E /* Portrait-Nyan-8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16541B36F4700043596E /* Portrait-Nyan-8@2x.png */; };
+		8F8B166D1B36F4700043596E /* Portrait-Nyan-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16551B36F4700043596E /* Portrait-Nyan-9.png */; };
+		8F8B166E1B36F4700043596E /* Portrait-Nyan-9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16561B36F4700043596E /* Portrait-Nyan-9@2x.png */; };
+		8F8B166F1B36F4700043596E /* Portrait-Nyan-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16571B36F4700043596E /* Portrait-Nyan-10.png */; };
+		8F8B16701B36F4700043596E /* Portrait-Nyan-10@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16581B36F4700043596E /* Portrait-Nyan-10@2x.png */; };
+		8F8B16711B36F4700043596E /* Portrait-Nyan-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16591B36F4700043596E /* Portrait-Nyan-11.png */; };
+		8F8B16721B36F4700043596E /* Portrait-Nyan-11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B165A1B36F4700043596E /* Portrait-Nyan-11@2x.png */; };
+		8F8B16731B36F4700043596E /* Portrait-Nyan-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B165B1B36F4700043596E /* Portrait-Nyan-12.png */; };
+		8F8B16741B36F4700043596E /* Portrait-Nyan-12@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B165C1B36F4700043596E /* Portrait-Nyan-12@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,7 +51,28 @@
 			remoteGlobalIDString = 8F8B16091B36F2B40043596E;
 			remoteInfo = "Nyan Cat Widget";
 		};
+		8F8B163E1B36F36F0043596E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8F8B16021B36F2B40043596E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8F8B16321B36F36F0043596E;
+			remoteInfo = "Nyan Cat Today";
+		};
 /* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8F8B16441B36F36F0043596E /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				8F8B16401B36F36F0043596E /* Nyan Cat Today.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		8F8B160A1B36F2B40043596E /* Nyan Cat Widget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nyan Cat Widget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -36,6 +85,35 @@
 		8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nyan Cat WidgetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F8B16241B36F2B40043596E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F8B16251B36F2B40043596E /* Nyan_Cat_WidgetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nyan_Cat_WidgetTests.swift; sourceTree = "<group>"; };
+		8F8B16331B36F36F0043596E /* Nyan Cat Today.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Nyan Cat Today.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F8B16351B36F36F0043596E /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+		8F8B16391B36F36F0043596E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F8B163A1B36F36F0043596E /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
+		8F8B163C1B36F36F0043596E /* MainInterface.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainInterface.storyboard; sourceTree = "<group>"; };
+		8F8B16451B36F4700043596E /* Portrait-Nyan-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-1.png"; sourceTree = "<group>"; };
+		8F8B16461B36F4700043596E /* Portrait-Nyan-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-1@2x.png"; sourceTree = "<group>"; };
+		8F8B16471B36F4700043596E /* Portrait-Nyan-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-2.png"; sourceTree = "<group>"; };
+		8F8B16481B36F4700043596E /* Portrait-Nyan-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-2@2x.png"; sourceTree = "<group>"; };
+		8F8B16491B36F4700043596E /* Portrait-Nyan-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-3.png"; sourceTree = "<group>"; };
+		8F8B164A1B36F4700043596E /* Portrait-Nyan-3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-3@2x.png"; sourceTree = "<group>"; };
+		8F8B164B1B36F4700043596E /* Portrait-Nyan-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-4.png"; sourceTree = "<group>"; };
+		8F8B164C1B36F4700043596E /* Portrait-Nyan-4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-4@2x.png"; sourceTree = "<group>"; };
+		8F8B164D1B36F4700043596E /* Portrait-Nyan-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-5.png"; sourceTree = "<group>"; };
+		8F8B164E1B36F4700043596E /* Portrait-Nyan-5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-5@2x.png"; sourceTree = "<group>"; };
+		8F8B164F1B36F4700043596E /* Portrait-Nyan-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-6.png"; sourceTree = "<group>"; };
+		8F8B16501B36F4700043596E /* Portrait-Nyan-6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-6@2x.png"; sourceTree = "<group>"; };
+		8F8B16511B36F4700043596E /* Portrait-Nyan-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-7.png"; sourceTree = "<group>"; };
+		8F8B16521B36F4700043596E /* Portrait-Nyan-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-7@2x.png"; sourceTree = "<group>"; };
+		8F8B16531B36F4700043596E /* Portrait-Nyan-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-8.png"; sourceTree = "<group>"; };
+		8F8B16541B36F4700043596E /* Portrait-Nyan-8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-8@2x.png"; sourceTree = "<group>"; };
+		8F8B16551B36F4700043596E /* Portrait-Nyan-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-9.png"; sourceTree = "<group>"; };
+		8F8B16561B36F4700043596E /* Portrait-Nyan-9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-9@2x.png"; sourceTree = "<group>"; };
+		8F8B16571B36F4700043596E /* Portrait-Nyan-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-10.png"; sourceTree = "<group>"; };
+		8F8B16581B36F4700043596E /* Portrait-Nyan-10@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-10@2x.png"; sourceTree = "<group>"; };
+		8F8B16591B36F4700043596E /* Portrait-Nyan-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-11.png"; sourceTree = "<group>"; };
+		8F8B165A1B36F4700043596E /* Portrait-Nyan-11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-11@2x.png"; sourceTree = "<group>"; };
+		8F8B165B1B36F4700043596E /* Portrait-Nyan-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-12.png"; sourceTree = "<group>"; };
+		8F8B165C1B36F4700043596E /* Portrait-Nyan-12@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Portrait-Nyan-12@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +131,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8F8B16301B36F36F0043596E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B16361B36F36F0043596E /* NotificationCenter.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -61,6 +147,8 @@
 			children = (
 				8F8B160C1B36F2B40043596E /* Nyan Cat Widget */,
 				8F8B16221B36F2B40043596E /* Nyan Cat WidgetTests */,
+				8F8B16371B36F36F0043596E /* Nyan Cat Today */,
+				8F8B16341B36F36F0043596E /* Frameworks */,
 				8F8B160B1B36F2B40043596E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,6 +158,7 @@
 			children = (
 				8F8B160A1B36F2B40043596E /* Nyan Cat Widget.app */,
 				8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */,
+				8F8B16331B36F36F0043596E /* Nyan Cat Today.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -112,6 +201,56 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		8F8B16341B36F36F0043596E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B16351B36F36F0043596E /* NotificationCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8F8B16371B36F36F0043596E /* Nyan Cat Today */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B163A1B36F36F0043596E /* TodayViewController.swift */,
+				8F8B163C1B36F36F0043596E /* MainInterface.storyboard */,
+				8F8B16381B36F36F0043596E /* Supporting Files */,
+			);
+			path = "Nyan Cat Today";
+			sourceTree = "<group>";
+		};
+		8F8B16381B36F36F0043596E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B16451B36F4700043596E /* Portrait-Nyan-1.png */,
+				8F8B16461B36F4700043596E /* Portrait-Nyan-1@2x.png */,
+				8F8B16471B36F4700043596E /* Portrait-Nyan-2.png */,
+				8F8B16481B36F4700043596E /* Portrait-Nyan-2@2x.png */,
+				8F8B16491B36F4700043596E /* Portrait-Nyan-3.png */,
+				8F8B164A1B36F4700043596E /* Portrait-Nyan-3@2x.png */,
+				8F8B164B1B36F4700043596E /* Portrait-Nyan-4.png */,
+				8F8B164C1B36F4700043596E /* Portrait-Nyan-4@2x.png */,
+				8F8B164D1B36F4700043596E /* Portrait-Nyan-5.png */,
+				8F8B164E1B36F4700043596E /* Portrait-Nyan-5@2x.png */,
+				8F8B164F1B36F4700043596E /* Portrait-Nyan-6.png */,
+				8F8B16501B36F4700043596E /* Portrait-Nyan-6@2x.png */,
+				8F8B16511B36F4700043596E /* Portrait-Nyan-7.png */,
+				8F8B16521B36F4700043596E /* Portrait-Nyan-7@2x.png */,
+				8F8B16531B36F4700043596E /* Portrait-Nyan-8.png */,
+				8F8B16541B36F4700043596E /* Portrait-Nyan-8@2x.png */,
+				8F8B16551B36F4700043596E /* Portrait-Nyan-9.png */,
+				8F8B16561B36F4700043596E /* Portrait-Nyan-9@2x.png */,
+				8F8B16571B36F4700043596E /* Portrait-Nyan-10.png */,
+				8F8B16581B36F4700043596E /* Portrait-Nyan-10@2x.png */,
+				8F8B16591B36F4700043596E /* Portrait-Nyan-11.png */,
+				8F8B165A1B36F4700043596E /* Portrait-Nyan-11@2x.png */,
+				8F8B165B1B36F4700043596E /* Portrait-Nyan-12.png */,
+				8F8B165C1B36F4700043596E /* Portrait-Nyan-12@2x.png */,
+				8F8B16391B36F36F0043596E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -122,10 +261,12 @@
 				8F8B16061B36F2B40043596E /* Sources */,
 				8F8B16071B36F2B40043596E /* Frameworks */,
 				8F8B16081B36F2B40043596E /* Resources */,
+				8F8B16441B36F36F0043596E /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				8F8B163F1B36F36F0043596E /* PBXTargetDependency */,
 			);
 			name = "Nyan Cat Widget";
 			productName = "Nyan Cat Widget";
@@ -150,6 +291,23 @@
 			productReference = 8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		8F8B16321B36F36F0043596E /* Nyan Cat Today */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F8B16411B36F36F0043596E /* Build configuration list for PBXNativeTarget "Nyan Cat Today" */;
+			buildPhases = (
+				8F8B162F1B36F36F0043596E /* Sources */,
+				8F8B16301B36F36F0043596E /* Frameworks */,
+				8F8B16311B36F36F0043596E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Nyan Cat Today";
+			productName = "Nyan Cat Today";
+			productReference = 8F8B16331B36F36F0043596E /* Nyan Cat Today.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -165,6 +323,9 @@
 					8F8B161E1B36F2B40043596E = {
 						CreatedOnToolsVersion = 6.3.2;
 						TestTargetID = 8F8B16091B36F2B40043596E;
+					};
+					8F8B16321B36F36F0043596E = {
+						CreatedOnToolsVersion = 6.3.2;
 					};
 				};
 			};
@@ -183,6 +344,7 @@
 			targets = (
 				8F8B16091B36F2B40043596E /* Nyan Cat Widget */,
 				8F8B161E1B36F2B40043596E /* Nyan Cat WidgetTests */,
+				8F8B16321B36F36F0043596E /* Nyan Cat Today */,
 			);
 		};
 /* End PBXProject section */
@@ -202,6 +364,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8F8B16311B36F36F0043596E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B16711B36F4700043596E /* Portrait-Nyan-11.png in Resources */,
+				8F8B166A1B36F4700043596E /* Portrait-Nyan-7@2x.png in Resources */,
+				8F8B16611B36F4700043596E /* Portrait-Nyan-3.png in Resources */,
+				8F8B16701B36F4700043596E /* Portrait-Nyan-10@2x.png in Resources */,
+				8F8B165E1B36F4700043596E /* Portrait-Nyan-1@2x.png in Resources */,
+				8F8B166B1B36F4700043596E /* Portrait-Nyan-8.png in Resources */,
+				8F8B165F1B36F4700043596E /* Portrait-Nyan-2.png in Resources */,
+				8F8B166F1B36F4700043596E /* Portrait-Nyan-10.png in Resources */,
+				8F8B165D1B36F4700043596E /* Portrait-Nyan-1.png in Resources */,
+				8F8B166D1B36F4700043596E /* Portrait-Nyan-9.png in Resources */,
+				8F8B16691B36F4700043596E /* Portrait-Nyan-7.png in Resources */,
+				8F8B16601B36F4700043596E /* Portrait-Nyan-2@2x.png in Resources */,
+				8F8B16661B36F4700043596E /* Portrait-Nyan-5@2x.png in Resources */,
+				8F8B16621B36F4700043596E /* Portrait-Nyan-3@2x.png in Resources */,
+				8F8B16741B36F4700043596E /* Portrait-Nyan-12@2x.png in Resources */,
+				8F8B163D1B36F36F0043596E /* MainInterface.storyboard in Resources */,
+				8F8B16641B36F4700043596E /* Portrait-Nyan-4@2x.png in Resources */,
+				8F8B16671B36F4700043596E /* Portrait-Nyan-6.png in Resources */,
+				8F8B16651B36F4700043596E /* Portrait-Nyan-5.png in Resources */,
+				8F8B16681B36F4700043596E /* Portrait-Nyan-6@2x.png in Resources */,
+				8F8B16631B36F4700043596E /* Portrait-Nyan-4.png in Resources */,
+				8F8B166C1B36F4700043596E /* Portrait-Nyan-8@2x.png in Resources */,
+				8F8B166E1B36F4700043596E /* Portrait-Nyan-9@2x.png in Resources */,
+				8F8B16721B36F4700043596E /* Portrait-Nyan-11@2x.png in Resources */,
+				8F8B16731B36F4700043596E /* Portrait-Nyan-12.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +419,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8F8B162F1B36F36F0043596E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B163B1B36F36F0043596E /* TodayViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -232,6 +434,11 @@
 			isa = PBXTargetDependency;
 			target = 8F8B16091B36F2B40043596E /* Nyan Cat Widget */;
 			targetProxy = 8F8B16201B36F2B40043596E /* PBXContainerItemProxy */;
+		};
+		8F8B163F1B36F36F0043596E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8F8B16321B36F36F0043596E /* Nyan Cat Today */;
+			targetProxy = 8F8B163E1B36F36F0043596E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -392,6 +599,30 @@
 			};
 			name = Release;
 		};
+		8F8B16421B36F36F0043596E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Nyan Cat Today/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		8F8B16431B36F36F0043596E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = "Nyan Cat Today/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -417,6 +648,14 @@
 			buildConfigurations = (
 				8F8B162D1B36F2B40043596E /* Debug */,
 				8F8B162E1B36F2B40043596E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		8F8B16411B36F36F0043596E /* Build configuration list for PBXNativeTarget "Nyan Cat Today" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F8B16421B36F36F0043596E /* Debug */,
+				8F8B16431B36F36F0043596E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
