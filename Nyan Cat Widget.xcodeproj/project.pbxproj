@@ -1,0 +1,426 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8F8B16101B36F2B40043596E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B160F1B36F2B40043596E /* AppDelegate.swift */; };
+		8F8B16121B36F2B40043596E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B16111B36F2B40043596E /* ViewController.swift */; };
+		8F8B16151B36F2B40043596E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16131B36F2B40043596E /* Main.storyboard */; };
+		8F8B16171B36F2B40043596E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16161B36F2B40043596E /* Images.xcassets */; };
+		8F8B161A1B36F2B40043596E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F8B16181B36F2B40043596E /* LaunchScreen.xib */; };
+		8F8B16261B36F2B40043596E /* Nyan_Cat_WidgetTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B16251B36F2B40043596E /* Nyan_Cat_WidgetTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8F8B16201B36F2B40043596E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8F8B16021B36F2B40043596E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8F8B16091B36F2B40043596E;
+			remoteInfo = "Nyan Cat Widget";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8F8B160A1B36F2B40043596E /* Nyan Cat Widget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Nyan Cat Widget.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F8B160E1B36F2B40043596E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F8B160F1B36F2B40043596E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8F8B16111B36F2B40043596E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8F8B16141B36F2B40043596E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8F8B16161B36F2B40043596E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		8F8B16191B36F2B40043596E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Nyan Cat WidgetTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F8B16241B36F2B40043596E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F8B16251B36F2B40043596E /* Nyan_Cat_WidgetTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nyan_Cat_WidgetTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8F8B16071B36F2B40043596E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8F8B161C1B36F2B40043596E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8F8B16011B36F2B40043596E = {
+			isa = PBXGroup;
+			children = (
+				8F8B160C1B36F2B40043596E /* Nyan Cat Widget */,
+				8F8B16221B36F2B40043596E /* Nyan Cat WidgetTests */,
+				8F8B160B1B36F2B40043596E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8F8B160B1B36F2B40043596E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B160A1B36F2B40043596E /* Nyan Cat Widget.app */,
+				8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8F8B160C1B36F2B40043596E /* Nyan Cat Widget */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B160F1B36F2B40043596E /* AppDelegate.swift */,
+				8F8B16111B36F2B40043596E /* ViewController.swift */,
+				8F8B16131B36F2B40043596E /* Main.storyboard */,
+				8F8B16161B36F2B40043596E /* Images.xcassets */,
+				8F8B16181B36F2B40043596E /* LaunchScreen.xib */,
+				8F8B160D1B36F2B40043596E /* Supporting Files */,
+			);
+			path = "Nyan Cat Widget";
+			sourceTree = "<group>";
+		};
+		8F8B160D1B36F2B40043596E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B160E1B36F2B40043596E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8F8B16221B36F2B40043596E /* Nyan Cat WidgetTests */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B16251B36F2B40043596E /* Nyan_Cat_WidgetTests.swift */,
+				8F8B16231B36F2B40043596E /* Supporting Files */,
+			);
+			path = "Nyan Cat WidgetTests";
+			sourceTree = "<group>";
+		};
+		8F8B16231B36F2B40043596E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8F8B16241B36F2B40043596E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8F8B16091B36F2B40043596E /* Nyan Cat Widget */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F8B16291B36F2B40043596E /* Build configuration list for PBXNativeTarget "Nyan Cat Widget" */;
+			buildPhases = (
+				8F8B16061B36F2B40043596E /* Sources */,
+				8F8B16071B36F2B40043596E /* Frameworks */,
+				8F8B16081B36F2B40043596E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Nyan Cat Widget";
+			productName = "Nyan Cat Widget";
+			productReference = 8F8B160A1B36F2B40043596E /* Nyan Cat Widget.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8F8B161E1B36F2B40043596E /* Nyan Cat WidgetTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F8B162C1B36F2B40043596E /* Build configuration list for PBXNativeTarget "Nyan Cat WidgetTests" */;
+			buildPhases = (
+				8F8B161B1B36F2B40043596E /* Sources */,
+				8F8B161C1B36F2B40043596E /* Frameworks */,
+				8F8B161D1B36F2B40043596E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8F8B16211B36F2B40043596E /* PBXTargetDependency */,
+			);
+			name = "Nyan Cat WidgetTests";
+			productName = "Nyan Cat WidgetTests";
+			productReference = 8F8B161F1B36F2B40043596E /* Nyan Cat WidgetTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8F8B16021B36F2B40043596E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Sayan Das";
+				TargetAttributes = {
+					8F8B16091B36F2B40043596E = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+					8F8B161E1B36F2B40043596E = {
+						CreatedOnToolsVersion = 6.3.2;
+						TestTargetID = 8F8B16091B36F2B40043596E;
+					};
+				};
+			};
+			buildConfigurationList = 8F8B16051B36F2B40043596E /* Build configuration list for PBXProject "Nyan Cat Widget" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8F8B16011B36F2B40043596E;
+			productRefGroup = 8F8B160B1B36F2B40043596E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8F8B16091B36F2B40043596E /* Nyan Cat Widget */,
+				8F8B161E1B36F2B40043596E /* Nyan Cat WidgetTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8F8B16081B36F2B40043596E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B16151B36F2B40043596E /* Main.storyboard in Resources */,
+				8F8B161A1B36F2B40043596E /* LaunchScreen.xib in Resources */,
+				8F8B16171B36F2B40043596E /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8F8B161D1B36F2B40043596E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8F8B16061B36F2B40043596E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B16121B36F2B40043596E /* ViewController.swift in Sources */,
+				8F8B16101B36F2B40043596E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8F8B161B1B36F2B40043596E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F8B16261B36F2B40043596E /* Nyan_Cat_WidgetTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8F8B16211B36F2B40043596E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8F8B16091B36F2B40043596E /* Nyan Cat Widget */;
+			targetProxy = 8F8B16201B36F2B40043596E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8F8B16131B36F2B40043596E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8F8B16141B36F2B40043596E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8F8B16181B36F2B40043596E /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8F8B16191B36F2B40043596E /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8F8B16271B36F2B40043596E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8F8B16281B36F2B40043596E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8F8B162A1B36F2B40043596E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Nyan Cat Widget/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8F8B162B1B36F2B40043596E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Nyan Cat Widget/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8F8B162D1B36F2B40043596E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Nyan Cat WidgetTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nyan Cat Widget.app/Nyan Cat Widget";
+			};
+			name = Debug;
+		};
+		8F8B162E1B36F2B40043596E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Nyan Cat WidgetTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nyan Cat Widget.app/Nyan Cat Widget";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8F8B16051B36F2B40043596E /* Build configuration list for PBXProject "Nyan Cat Widget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F8B16271B36F2B40043596E /* Debug */,
+				8F8B16281B36F2B40043596E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8F8B16291B36F2B40043596E /* Build configuration list for PBXNativeTarget "Nyan Cat Widget" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F8B162A1B36F2B40043596E /* Debug */,
+				8F8B162B1B36F2B40043596E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		8F8B162C1B36F2B40043596E /* Build configuration list for PBXNativeTarget "Nyan Cat WidgetTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F8B162D1B36F2B40043596E /* Debug */,
+				8F8B162E1B36F2B40043596E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8F8B16021B36F2B40043596E /* Project object */;
+}
